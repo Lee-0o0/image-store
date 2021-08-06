@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>姓名</HeaderText>
+    <DisplayIndex>2</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>Name</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>性别</HeaderText>
+    <DisplayIndex>0</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>Gender</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>年龄</HeaderText>
+    <DisplayIndex>1</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>Age</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>学校</HeaderText>
+    <DisplayIndex>3</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>School</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>住址</HeaderText>
+    <DisplayIndex>4</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>Address</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+  <myDisplayDgv1>
+    <Name />
+    <HeaderText>联系电话</HeaderText>
+    <DisplayIndex>5</DisplayIndex>
+    <Width>100</Width>
+    <DataPropertyName>Phone</DataPropertyName>
+    <Visible>True</Visible>
+    <ColumnType>DataGridViewTextBoxCell</ColumnType>
+  </myDisplayDgv1>
+</DocumentElement>
